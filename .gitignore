@@ -1,0 +1,8 @@
+  
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+*.db
+*.pytest_cache
+viz.html
+viz1.html
