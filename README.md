@@ -1,1 +1,2 @@
-# house-sale-king
+# King County House Sales
+## A predictive model
