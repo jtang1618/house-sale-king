@@ -17,8 +17,7 @@ For many first-time home buyers, a new house is a big financial investment. This
 
 The dataset used are all house sales from King County in the state of Washington between May 2014 and May 2015, representing over twenty-one thousand transactions. The data file includes house attributes for each sale, including the sale date, number of bedrooms, the condition the house was in, the year it was built, etc. A complete table of all the attributes is included. 
 
-</li>[King County Column Names & Descriptions](./notebooks_data/kchouse_columns.ipynb)</li>
-<li>King County Base dataset: kc_house_data.csv - https://github.com/jtang1618/house-sale-king/blob/master/kc_house_data.csv</li>
+[King County Column Names & Descriptions](./notebooks_data/kchouse_columns.ipynb)
 
 ## Methods
 
@@ -60,7 +59,7 @@ Further analysis could entail correlating sale prices to time of year and a more
 
 ## For More Information
 
-Please review the full analysis in the Jupyter Notebooks, [1_data_cleaning_eda](./notebooks_data/1_data_cleaning_eda.ipynb) & [2_kchouse_modeling.ipynb](./notebooks_data/2_kchouse_modeling.ipynb), and/or the accompanying [presentation](./kingcounty_housesales.pdf).
+Please review the full analysis in the Jupyter Notebooks, [1_data_cleaning_eda](./notebooks_data/1_data_cleaning_eda.ipynb) & [2_kchouse_modeling](./notebooks_data/2_kchouse_modeling.ipynb), and/or the accompanying [presentation](./kingcounty_housesales.pdf).
 
 Joseph Tang at [joe@houseoftang.org ](mailto:joe@houseoftang.org)
 
