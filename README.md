@@ -61,7 +61,7 @@ Further analysis could entail correlating sale prices to time of year and a more
 
 Please review the full analysis in the Jupyter Notebooks, [1_data_cleaning_eda](./notebooks_data/1_data_cleaning_eda.ipynb) & [2_kchouse_modeling](./notebooks_data/2_kchouse_modeling.ipynb), and/or the accompanying [presentation](./kingcounty_housesales.pdf).
 
-Joseph Tang at [joe@houseoftang.org ](mailto:joe@houseoftang.org)
+Joseph Tang at [jtang1.618@gmail.com](mailto:jtang1.618@gmail.com)
 
 ![Rainer](./images/Rainier.jpg)
 
