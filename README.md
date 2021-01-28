@@ -32,7 +32,7 @@ NumPy, Pandas, Pandas-Profiling, SciPy, Seaborn, MatPlotLib, Folium, Cufflinks, 
 King County, WA had a wide range of house sale prices, from $82,000 to $7.7 million. The iterative analysis showed that some of the biggest factors that contribute to the sale price of a house in the region are size of the living space and the quality of construction of the house (i.e. the design and material finishes). 
 Final modeling gave very close Root Mean Squared Errors between the training and validation data sets, with an R-squared value of .753 in the OLS regression. 
 
-![model3](./images/model3.jpg)
+![Model3](./images/Model3.png)
 
 ## Conclusions
 
