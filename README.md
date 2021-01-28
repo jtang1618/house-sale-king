@@ -72,6 +72,7 @@ Joseph Tang at [joe@houseoftang.org ](mailto:joe@houseoftang.org)
 ├── archive                        
 ├── images
 ├── notebooks_data
+├── .gitignore
 ├── README.md                          
 └── kingcounty_housesales.pdf
 
