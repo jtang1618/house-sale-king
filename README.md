@@ -69,7 +69,8 @@ Joseph Tang at [joe@houseoftang.org ](mailto:joe@houseoftang.org)
 ## Repository Structure
 
 ```
-├── images                        
+├── archive                        
+├── images
 ├── notebooks_data
 ├── README.md                          
 └── kingcounty_housesales.pdf
