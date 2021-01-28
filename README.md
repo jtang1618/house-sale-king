@@ -43,16 +43,16 @@ When looking at a first home in King County, WA, there are a few considerations 
 <li>3) Though the total size of a home is important in its pricing, the size of the actual living areas in a home impact the sale price more than the lot size.</li>
 
 Though moderately priced homes can be found throughout King County, these 10 towns and cities have the lowest median sales prices within an hour to the south and east of Seattle:
-<li>Federal Way - $226, 687.50</li>
-<li>Auburn - </li>
-<li>Enumclaw</li>
-<li>Kent</li>
-<li>Maple Valley</li>
-<li>Renton</li>
-<li>Black Diamond</li>
-<li>Duvall</li>
-<li>North Bend</li>
-<li>Carnation</li>
+<li>Federal Way - $268,750</li>
+<li>Auburn - $272,000</li>
+<li>Enumclaw - $280.017</li>
+<li>Kent - $284,500</li>
+<li>Maple Valley - $342,250</li>
+<li>Renton - $361,000</li>
+<li>Black Diamond - $372,000</li>
+<li>Duvall - $404,625</li>
+<li>North Bend - $421,000</li>
+<li>Carnation - $425,000</li>
 
 ### Future Work
 Further analysis could entail correlating sale prices to time of year and a more granular look at geographical location by neighborhood. Additionally, many of the variables reference other variables and a deeper analysis of interactions between variables would be beneficial for the modeling.
